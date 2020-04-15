@@ -1,0 +1,8 @@
+@charset "ISO-8859-1";
+
+ .form-control{  border-radius: 20px;
+    background-color: white;
+    border-color: #837b7b69;
+    padding: 5px;
+    width: 322px;
+ }
